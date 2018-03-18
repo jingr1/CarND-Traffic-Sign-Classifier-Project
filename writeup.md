@@ -31,7 +31,7 @@ You're reading it! and here is a link to my [project code](https://github.com/ji
 
 
 ---
-Histogram of Traffic Sign distribution.png
+
 ### Data Set Summary & Exploration
 
 #### 1. Basic summary of the dataset
