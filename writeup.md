@@ -126,7 +126,7 @@ so I added two levels of dropout, one (p-conv = 0.5) for convolutional layers, t
 #### Load the new German traffic signs
 Here are Seven German traffic signs that I found on the web:
 
-![alt text][image3]
+![alt text][image7]
 
 They represent different traffic signs that we currently classify, the "unknow" image is out of the classes, so it certainly can't be classify correctly.
 
@@ -142,7 +142,7 @@ Here are the results of the prediction:
 | Image                 |     Prediction                                | 
 |:---------------------:|:---------------------------------------------:| 
 | Keep Right            | Keep Right                                    | 
-| Stop                  | U-turn                                        |
+| Stop                  | Stop                                          |
 | Yield                 | Yield                                         |
 | Speed Limit 30 km/h   | Speed Limit 30 km/h                           |
 | Priority Road         | Traffic Signals                               |
