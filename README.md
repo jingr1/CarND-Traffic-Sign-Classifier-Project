@@ -175,8 +175,8 @@ TopKV2(values=array([[  1.00000000e+00,   9.40376828e-25,   3.56742623e-27,
        [26, 40, 35,  8, 12],
        [14, 13,  3, 38, 33]], dtype=int32))
 ```
-
 This is the distribution histogram of softmax probabilities:
+
 ![alt text][image8] ![alt text][image9] ![alt text][image10] 
 ![alt text][image11] ![alt text][image12] ![alt text][image13] 
 ![alt text][image14]
